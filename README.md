@@ -2,9 +2,9 @@
 
 > I'm a Product Oriented dev with a focus on building full stack products that integrate with data to bring cool things to life.
 
- Currently learning: React, Django, Linux
+- Currently learning: React, Django, Linux
  
-Looking to collaborate on end to end full stack projects that can bring mind blowing solutions. 
+- Looking to collaborate on end-to-end, full-stack projects that can bring mind blowing solutions. 
 
 
 
