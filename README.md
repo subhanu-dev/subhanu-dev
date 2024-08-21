@@ -4,7 +4,7 @@
 
 - Currently learning: React, Django, Linux
  
-- Looking to collaborate on end-to-end, full-stack projects that can bring mind blowing solutions. 
+- Looking to collaborate on end-to-end, full-stack projects. 
 
 
 
