@@ -1,12 +1,6 @@
-## Heya,👋
+## oh hey, 
 
-> I'm a Product Oriented dev with a focus on building full stack products that integrate with data to bring cool things to life.
-
-- Currently learning: Svelete
- 
-- Looking to collaborate on end-to-end, full-stack projects. 
-
-
+> I'm a Product Oriented dev with a focus on building full stack end-to-end products to bring cool things to life!
 
 
 ## 🛠️ Technologies & Tools
@@ -29,4 +23,3 @@
 
 - Email: [Subhanuliyanage@gmail.com](mailto:subhanuliyanage@gmail.com)
 - LinkedIn: [subhanuchamaka](https://www.linkedin.com/in/subhanuchamaka/)
-- Website: Still working on it. come back at a later time. 
