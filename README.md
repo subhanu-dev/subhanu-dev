@@ -1,6 +1,6 @@
 ## oh hey, 
 
-> I'm a Product Oriented dev with a focus on building full stack end-to-end products to bring cool things to life!
+> I'm a Product Oriented dev with a focus on building full stack end-to-end products. 
 
 
 ## 🛠️ Technologies & Tools
