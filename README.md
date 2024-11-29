@@ -1,7 +1,7 @@
 
 ### Hello, World! 🌍
 I'm Subhanu. A Data Enthusiast specialized in data science with a passion to build end to end solutions by combining data, engineering and design. <br>
-Explore all my projects 👉🏽 [here](https://github.com/subhanu-dev?tab=repositories).
+Explore all my projects 👉🏽 [here](https://github.com/subhanu-dev?tab=repositories)
 
 ---
 <h3 align="left">Tools and Technologies</h3>
@@ -31,6 +31,8 @@ Explore all my projects 👉🏽 [here](https://github.com/subhanu-dev?tab=repos
 
 ### 🌐 Connect with me
 
+Portfolio Site: [www.subhanu.live](https://www.subhanu.live/) <br>
 LinkedIn: [subhanuchamaka](https://linkedin.com/in/subhanuchamaka)  <br>
 Email: [Subhanuliyanage@gmail.com](mailto:subhanuliyanage@gmail.com)
+
 
