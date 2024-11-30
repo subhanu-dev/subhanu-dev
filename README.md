@@ -31,8 +31,8 @@ Explore all my projects 👉🏽 [here](https://github.com/subhanu-dev?tab=repos
 
 ### 🌐 Connect with me
 
-Portfolio Site: [www.subhanu.live](https://www.subhanu.live/) <br>
-LinkedIn: [subhanuchamaka](https://linkedin.com/in/subhanuchamaka)  <br>
-Email: [Subhanuliyanage@gmail.com](mailto:subhanuliyanage@gmail.com)
+Portfolio Site:    [www.subhanu.live](https://www.subhanu.live/) <br>
+LinkedIn:          [subhanuchamaka](https://linkedin.com/in/subhanuchamaka)  <br>
+Email:             [Subhanuliyanage@gmail.com](mailto:subhanuliyanage@gmail.com)
 
 
