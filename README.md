@@ -28,7 +28,7 @@ Explore all my projects 👉🏽 [here](https://github.com/subhanu-dev?tab=repos
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanu-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+---
 ### 🌐 Connect with me
 
 Portfolio Site:    [www.subhanu.live](https://www.subhanu.live/) <br>
