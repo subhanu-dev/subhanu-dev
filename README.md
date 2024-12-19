@@ -29,31 +29,18 @@ I'm Subhanu. A Data Enthusiast specialized in data science with a passion to bui
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanu-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+### Projects ⚒️
+
+See all my projects here : [projects](projects.md)
+
+---
 ### 🌐 Connect with me
 
 Portfolio Site:    [www.subhanu.live](https://www.subhanu.live/) <br>
 LinkedIn:          [subhanuchamaka](https://linkedin.com/in/subhanuchamaka)  <br>
 Email:             [Subhanuliyanage@gmail.com](mailto:subhanuliyanage@gmail.com)
 
----
 
-### Full list of Projects I've worked on
-
-Not a featured list but all my solo projects in one place and links to their repositories. 
-
-- Power BI dashboard for Adidas sales data analysis in the United States
-- Olympic games data exploratory data analysis and streamlit dashboard
-- Power BI dashboard for analysing job trends in the data science domain across the world
-- Tableu HR analytics dashboard for Awesomme Chocolates Company
-- Excel dashbboard to visualize Coca Cola sales in the US
-- Web based anaysis and dashboard for climate change metric across the globe and Sri Lanka
-- Credit card fraud detection app using machine learning
-- customer churn prediction app for an european bank
-- Single page website for Algo Studios
-- Website for a hypothetical Sri Lankan Enerh=gy Drink - Enerja
-- UI prototype for a personal finance tracker app - Centsible
-- Landing page UI design for a Sri lankan tech hiring platform - TalentBar
-  
 
 
 
