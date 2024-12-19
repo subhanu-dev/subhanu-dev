@@ -1,4 +1,5 @@
 ![banner](LinkedInnew.png)
+
 ### Hello, World! 🌍
 I'm Subhanu. A Data Enthusiast specialized in data science with a passion to build end to end solutions by combining data, engineering and design. <br>
 
@@ -31,14 +32,14 @@ I'm Subhanu. A Data Enthusiast specialized in data science with a passion to bui
 ---
 ### Projects ⚒️
 
-See all my projects here : [projects](projects.md)
+See all my projects here ➡️ [Projects](projects.md)
 
 ---
 ### 🌐 Connect with me
 
-Portfolio Site:    [www.subhanu.live](https://www.subhanu.live/) <br>
-LinkedIn:          [subhanuchamaka](https://linkedin.com/in/subhanuchamaka)  <br>
-Email:             [Subhanuliyanage@gmail.com](mailto:subhanuliyanage@gmail.com)
+Portfolio Site:    <a href="https://www.subhanu.live/" target="_blank">www.subhanu.live</a> <br>
+LinkedIn:          <a href="https://linkedin.com/in/subhanuchamaka" target="_blank">subhanuchamaka</a> <br>
+Email:             <a href="mailto:subhanuliyanage@gmail.com" target="_blank">Subhanuliyanage@gmail.com</a>
 
 
 
