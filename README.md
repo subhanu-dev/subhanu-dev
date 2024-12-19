@@ -1,4 +1,4 @@
-
+![banner](LinkedInnew.png)
 ### Hello, World! 🌍
 I'm Subhanu. A Data Enthusiast specialized in data science with a passion to build end to end solutions by combining data, engineering and design. <br>
 
