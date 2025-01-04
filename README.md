@@ -2,7 +2,7 @@
 
 ### Hello, World! 🌍
 I'm Subhanu. A Data Enthusiast specialized in data science with a passion to build end to end solutions by combining data, engineering and design. <br>
-You'd find me mostly tinkering with data, plots and and models. Often to milking datasets dry for insights. I also dabbble in software development and design whenever I hit a stroke of inspiration ( or when I feel like avoiding work with messy data for a while 😏 )
+You'd find me mostly tinkering with data, plots and and models. Often at milking datasets dry for insights. I also dabbble in software development and design whenever I hit a stroke of inspiration ( or when I feel like avoiding work with messy data for a while 😏 )
 
 ---
 <h3 align="left">Tools and Technologies</h3>
