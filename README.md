@@ -45,7 +45,6 @@ Email:             <a href="mailto:subhanuliyanage@gmail.com" target="_blank">Su
 
 
 
-> You don't form in the wet sand, I DO!
 
 
 
