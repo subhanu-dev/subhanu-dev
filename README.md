@@ -1,6 +1,9 @@
 ![banner](LinkedInnew.png)
 
-### Hello, World! 🌍
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="100" height="100" />
+ 
+ ### Hello, World! 🌍
+
 I'm Subhanu.A full stack data scientist with a passion to build end to end solutions by combining data, engineering and design. <br>
 You'd find me mostly tinkering with data, plots and and models. Often at milking datasets dry for insights. I also dabbble in software development and design whenever I hit a stroke of inspiration ( or when I feel like avoiding work with messy data for a while 😏 )
 
@@ -26,7 +29,7 @@ You'd find me mostly tinkering with data, plots and and models. Often at milking
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
-
+      
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanu-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
@@ -42,6 +45,9 @@ Portfolio Site:    <a href="https://www.subhanu.live/" target="_blank">www.subha
 LinkedIn:          <a href="https://linkedin.com/in/subhanuchamaka" target="_blank">subhanuchamaka</a> <br>
 Email:             <a href="mailto:subhanuliyanage@gmail.com" target="_blank">Subhanuliyanage@gmail.com</a>
 
+<p align="right">
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0NDQyNzQsIm5iZiI6MTc0NjQ0Mzk3NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDExMTkzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmZmNiMDllMjI2NzJlYjFmMzg0NTE2NmI5NmJlMjFmOWVhODhiNzJmMzgzOTA4MjcwNGEwYTgyZjQyYTc3MzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.b9IAXjWKjWyCmBng1ygHDmPLyqirrbVibrYTF4ggOTE" width="200">
+</p>
 
 
 
