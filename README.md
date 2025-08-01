@@ -53,7 +53,7 @@ Email:             <a href="mailto:subhanuliyanage@gmail.com" target="_blank">Su
   <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0NDQyNzQsIm5iZiI6MTc0NjQ0Mzk3NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDExMTkzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmZmNiMDllMjI2NzJlYjFmMzg0NTE2NmI5NmJlMjFmOWVhODhiNzJmMzgzOTA4MjcwNGEwYTgyZjQyYTc3MzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.b9IAXjWKjWyCmBng1ygHDmPLyqirrbVibrYTF4ggOTE" width="200">
 </p>
 
-
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=subhanu-dev.subhanu-dev&left_color=blue&right_color=orange)
 
 
 
