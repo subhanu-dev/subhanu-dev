@@ -4,8 +4,9 @@
  
  ### Hello, World! 🌍
 
-I'm Subhanu.A full stack data scientist with a passion to build end to end solutions by combining data, engineering and design. <br>
-You'd find me mostly tinkering with data, plots and and models. Often at milking datasets dry for insights. I also dabbble in software development and design whenever I hit a stroke of inspiration ( or when I feel like avoiding work with messy data for a while 😏 )
+I'm Subhanu. A full stack Data Scientist and Engineer with a passion to build end to end solutions by combining data, engineering and design. <br>
+You'd find me mostly tinkering with data, plots and and models. Often at milking datasets dry for insights. I specialize in Building End-to-End Data Engineering solutions across platforms that drive business impact. I also dabbble in software development and design whenever I hit a stroke of inspiration ( or when I feel like avoiding work with messy data for a while 😏 )
+
 
 ---
 <h3 align="left">Tools and Technologies</h3>
@@ -45,7 +46,6 @@ See all my projects here ➡️ <a href="https://github.com/subhanu-dev?tab=repo
 ---
 ### 🌐 Connect with me
 
-Portfolio Site:    <a href="https://www.subhanu.live/" target="_blank">www.subhanu.live</a> <br>
 LinkedIn:          <a href="https://linkedin.com/in/subhanuchamaka" target="_blank">subhanuchamaka</a> <br>
 Email:             <a href="mailto:subhanuliyanage@gmail.com" target="_blank">Subhanuliyanage@gmail.com</a>
 
