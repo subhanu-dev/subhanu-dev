@@ -14,7 +14,6 @@ You'd find me mostly tinkering with data, plots and and models. Often at milking
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -46,7 +45,7 @@ See all my projects here ➡️ <a href="https://github.com/subhanu-dev?tab=repo
 ---
 ### 🌐 Connect with me
 
-LinkedIn:          <a href="https://linkedin.com/in/subhanuchamaka" target="_blank">subhanuchamaka</a> <br>
+LinkedIn:          <a href="https://www.linkedin.com/in/subhanuliyanage/" target="_blank">subhanuliyanage</a> <br>
 Email:             <a href="mailto:subhanuliyanage@gmail.com" target="_blank">Subhanuliyanage@gmail.com</a>
 
 <p align="right">
