@@ -4,7 +4,7 @@
  
  ### Hello, World! 🌍
 
-I'm Subhanu. A full stack data engineer & a data scientist with a passion to build end-to-end solutions by combining data, engineering and design. <br>
+I'm Subhanu. A full stack data engineer & data scientist with a passion to build end-to-end solutions by combining data, engineering and design. <br>
 I specialize in building end-to-end Data Engineering solutions across platforms that drive business impact. You'd find me mostly tinkering with data, plots and and models. Often at milking datasets dry for insights. 
 <br>I also dabbble in software development and design whenever I hit a stroke of inspiration (or when I feel like avoiding work with messy data for a while 😏)
 
